@@ -1,0 +1,30 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: Arial;
+    color: #333;
+    font-size: 21px;
+    background-color: #ffe;
+}
+
+main {
+    min-height: 610px;
+}
+
+main, footer, header {
+    width: 89%;
+    margin: 34px auto;
+}
+
+header a {
+    font-size: 55px;
+    margin: 21px auto;
+    color: #900C3F;
+    text-decoration: none;
+}
+
+a {
+    margin: 5px;
+    color: cadetblue;
+}
